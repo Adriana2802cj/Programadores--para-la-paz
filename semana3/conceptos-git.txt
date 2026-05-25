@@ -1,0 +1,5 @@
+Repositorio: Es el contenedor digital o carpeta centralizada donde se almacenan todos los archivos de nuestro proyecto, junto con el historial completo de sus modificaciones. En el desarrollo colaborativo, actúa como la fuente única de verdad que permite a todo el equipo trabajar de manera organizada y transparente sobre el mismo código.
+
+Commit: Es un punto de control o "fotografía" instantánea que guarda de forma permanente los cambios realizados en los archivos dentro del historial local. Cada commit va acompañado de un mensaje descriptivo que detalla qué se modificó y por qué, garantizando la trazabilidad y la responsabilidad sobre el avance del software.
+
+Push: Es la acción de enviar o subir los commits que hemos registrado en nuestro computador local hacia el repositorio remoto que está alojado en plataformas como GitHub. Este comando es el que permite compartir de manera efectiva nuestro progreso técnico con el resto del equipo para que puedan integrar las nuevas soluciones.
