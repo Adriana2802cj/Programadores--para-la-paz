@@ -1,0 +1,5 @@
+cuando se ejecuta: http://localhost:3000, se hace una consulta a lo que está en la raíz "/", por lo que se muestra el mensaje "servidor activo"
+
+cuando se ejecuta: http://localhost:3000/saludo, se consulta esa ruta, por lo que se muestra el mensaje "hola comunidad"
+
+cuando se ejecuta: http://localhost:3000/mensaje/nombre, se consulta esta ruta, pero se cambia lo que está seguido de "mensaje/" por el valor que tome "nombre" en la URL. En este caso "hola adriana"

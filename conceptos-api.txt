@@ -1,0 +1,3 @@
+La ruta POST/reporte recibe un texto que el usuario envía oculto en la petición, lo procesa y le devuelve una confirmación en formato JSON diciendo que todo salió bien.
+
+En el contexto de una comunidad, esta ruta es perfecta para crear interactividad; por lo que se podría usar para reportar averías o problemas, un buzón de sugerencias o quejas o para alertas de seguridad
