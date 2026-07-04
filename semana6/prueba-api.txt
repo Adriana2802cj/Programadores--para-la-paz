@@ -1,0 +1,1 @@
+El servidor devuelve la información que le envía el cliente a través de la ruta especificada, pero le agrega una nueva línea que se llama estado, indicando que los datos fueron recibidos en caso que todo haya salido bien
