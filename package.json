@@ -1,0 +1,23 @@
+{
+  "name": "programadores--para-la-paz",
+  "version": "1.0.0",
+  "description": "Actividades programadores para la paz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adriana2802cj/Programadores--para-la-paz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adriana2802cj/Programadores--para-la-paz/issues"
+  },
+  "homepage": "https://github.com/Adriana2802cj/Programadores--para-la-paz#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
