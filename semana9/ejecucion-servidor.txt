@@ -1,0 +1,9 @@
+Cuando se ejecuta node server.js, se levanta un servidor web en la computadora. El programa se queda "escuchando" de forma permanente a través del puerto 3000, esperando que algún usuario o aplicación intente comunicarse con él.
+
+El mensaje que aparece en la terminal es: "Servidor ejecutándose en puerto 3000"
+
+Cuando se visita la ruta /estado, el servidor procesa la petición HTTP y el navegador o aplicación que hizo la visita recibirá una respuesta en formato JSON. En la pantalla se muestra: 
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}

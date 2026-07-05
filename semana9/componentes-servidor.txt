@@ -1,0 +1,9 @@
+Sistema operativo: Es el software base de la computadora, el cual administra el hardware y permite que los programas que se instalan puedan ejecutarse.
+
+Node.js: Es el entorno que traduce y ejecuta el código JavaScript directamente en la computadora, actuando como el motor que le da vida al servidor fuera de un navegador web.
+
+Aplicación server.js: Es el programa que escrito en Express para crear una "API comunitaria" la cual se encarga de escuchar las peticiones de los vecinos y enviarles las respuestas correspondientes.
+
+Puerto (3000): Es la "puerta virtual" específica de la computadora que la aplicación reserva para que el tráfico de internet sepa exactamente por dónde entrar al servidor y no confundirse con otros programas.
+
+Logs: Son los mensajes de registro que la aplicación deja en la terminal para informar en tiempo real qué está haciendo el servidor o si ocurrió algún error.
