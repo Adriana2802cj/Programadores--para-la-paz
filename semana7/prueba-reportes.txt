@@ -1,0 +1,1 @@
+El servidor devuelve la información que le envía un usuario la cual puede ser un reporte como tal o un ticket, a este se le da además un identificador. por lo que se podría considerar para llevar registros organizados en un sistema de soporte o registro de quejas
