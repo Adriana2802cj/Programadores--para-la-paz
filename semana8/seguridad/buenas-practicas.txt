@@ -1,0 +1,3 @@
+*Utilizar gestor de contraseñas
+*Activar siempre que se pueda la autenticación multifactor
+*No usar redes publicas para compartir datos sensibles ni contraseñas

@@ -1,0 +1,7 @@
+*No compartir datos sensibles
+*No usar redes publicas
+*Usar contraseñas únicas
+*Establecer un plan para hacer copias de seguridad
+*Usar la autenticación multifactor
+
+
