@@ -1,0 +1,18 @@
+¿Qué 2 tareas del backlog harías primero?
+
+*Permitir a los ciudadanos reportar una falla en los servicios públicos
+*Permitir a los vecinos y veedores consultar públicamente el historial de reportes en su zona.
+
+¿Por qué son las más importantes?
+
+*La primera tarea transforma el malestar individual de un vecino en una evidencia digital y colectiva. Si un problema no se registra de forma clara, formalmente "no existe". Al capturar el reporte, le damos una voz y un canal oficial a la comunidad, además los registros serían el corazón de la solución comunitaria
+
+*La segunda tarea (consultar el historial) quita el monopolio de la información a unos pocos (algo como ya lo hacen las RRSS) y se la entrega a todo el barrio. Al hacer públicos los reportes, los vecinos se dan cuenta de que no están solos en sus reclamos, se evita que la gente reporte lo mismo dos veces, y se generan los datos reales necesarios para presionar colectivamente por soluciones ante las instituciones.
+
+¿Qué significa que una tarea esté "terminada"?
+
+Para mi una tarea está verdaderamente terminada cuando cumple básicamente con tres condiciones:
+
+1. Es accesible y clara, lo que significa cualquiera que sea puede ingresar y registrar un problema o hacer una consulta
+2. Está protegida, es decir, que por ejemplo, los datos sensibles de los vecinos están resguardados y nadie puede usarlos para tomar represalias por una denuncia.
+3. Funciona de manera estable en el servidor, lo que indica que está disponible siempre y funcione sin errores.

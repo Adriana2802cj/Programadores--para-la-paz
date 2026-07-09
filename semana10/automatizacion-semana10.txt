@@ -1,0 +1,11 @@
+1. Evento
+Un vecino entra a la aplicación del barrio y reporta por ejemplo, que se rompió un tubo de agua principal en su calle. En el momento en que presiona el botón "Enviar Reporte", la plataforma guarda la información y este registro activa automáticamente a n8n.
+
+2. Acción
+n8n recibe el aviso, toma los datos generales del problema y se conecta con la aplicación de Telegram. Acto seguido, le ordena al sistema que envíe un mensaje automático al grupo privado donde están los coordinadores comunitarios.
+
+3. Mensaje
+Los coordinadores reciben una notificación en sus celulares indicando que revisen el sistema.
+
+4. Lo que se oculta por seguridad:
+Para proteger al vecino, el mensaje que llega a Telegram no muestra: ni el nombre de la persona que reportó, ni su número de teléfono, ni la dirección exacta de su casa. Solo muestra el barrio para que los coordinadores sepan qué zona atender sin poner en riesgo la privacidad de nadie.
