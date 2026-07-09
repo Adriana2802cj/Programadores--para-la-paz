@@ -1,0 +1,13 @@
+La interfaz de la plataforma debería ser un espacio digital limpio, intuitivo y accesible para cualquier vecino del barrio, sin importar su nivel de familiaridad con la tecnología. podría organizarse así:
+
+1. Panel de Creación: "Iniciar una Causa"
+En la parte superior se ubicará un formulario sencillo con tres campos claros: uno para el título de la causa, otro para la descripción, en donde se detalle el objetivo, y un selector de fecha para programar la actividad comunitaria. Al final, un botón que diga "Publicar Causa".
+
+2. Tablero Comunitario: "Vista de Causas Disponibles"
+Sería como una cartelera digital grande en donde se despliegen, en forma de tarjetas independientes, todas las causas activas del territorio. Cada tarjeta mostrará  únicamente la información pública y comunitaria: el título, la descripción de la iniciativa, la fecha programada y el estado actual.
+
+3. Módulo de Participación: "Botón y Contador de Apoyos"
+Dentro de cada tarjeta de causa, se indicará un motor de la participación: un contador que registre el numero de vecino que apoyen dicha causa y un botón para indicar "apoyo"
+
+Compromiso de Privacidad:
+La interfaz debe estar diseñada bajo el principio de cuidado colectivo: debe ser completamente transparente con las causas, pero invisible con los datos personales. En ninguna parte de la pantalla se mostrarán apellidos, números de teléfono, correos ni documentos de los creadores o de quienes apoyan.

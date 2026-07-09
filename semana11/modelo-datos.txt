@@ -1,0 +1,53 @@
+Entidad 1: Incidencia
+
+Campos principales:
+
+-id (Número único de identificación)
+
+-categoria 
+
+-descripcion 
+
+-barrio_sector
+
+-estado
+
+-fecha_creacion (Día y hora del reporte)
+
+Propósito:
+Registrar y estructurar formalmente las problemáticas o fallas de infraestructura detectadas por los vecinos en el territorio, permitiendo que dejen de ser quejas invisibles y se conviertan en datos públicos rastreables.
+
+Entidad 2: Comité_Asignado
+
+Campos principales:
+
+-id (Número único de identificación)
+
+-incidencia_id 
+
+-nombre_comite
+
+-coordinador_cargo
+
+-fecha_asignacion 
+
+Propósito:
+Vincular cada reporte comunitario con un grupo de trabajo específico dentro de la organización vecinal, asegurando que exista una responsabilidad institucional clara y se pueda auditar quién está a cargo de buscar la solución.
+
+Entidad 3: Accion_Comunitaria
+
+Campos principales:
+
+-id (Número único de identificación)
+
+-incidencia_id
+
+-descripcion_avance 
+
+-recursos_utilizados (Donaciones, presupuesto participativo invertido)
+
+-fecha_registro
+
+Propósito:
+
+Llevar la bitácora o historial de transparencia de todas las actividades e inversiones realizadas para resolver el problema, permitiendo a los ciudadanos consultar el avance real del caso y fiscalizar los recursos comunes.
