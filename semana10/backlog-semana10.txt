@@ -1,0 +1,19 @@
+1.Como ciudadano afectado quiero reportar una falla en los servicios públicos con foto y ubicación para que quede una evidencia pública y rastreable del problema.
+
+2.Como veedor comunitario quiero consultar el historial de reportes sin resolver en mi zona para recolectar datos y argumentar formalmente ante las autoridades locales.
+
+3.Como administrador del comité del barrio quiero cambiar el estado de un reporte (de "Pendiente" a "En proceso" o "Solucionado") para mantener a la comunidad informada sobre los avances.
+
+4.Como coordinador de la veeduría quiero recibir una notificación automática en mi celular cada vez que se registre un reporte de alta urgencia para activar de inmediato los protocolos de apoyo.
+
+
+ORDEN DE PRIORIDAD:
+
+Prioridad Alta (La base del sistema): Como ciudadano afectado quiero reportar una falla en los servicios públicos..
+
+
+Prioridad Media-Alta (Transparencia y control): Como administrador del comité de vecinos quiero cambiar el estado de un reporte...
+
+Prioridad Media (Uso de los datos): Como veedor comunitario quiero consultar el historial de reportes...
+
+Prioridad Baja (Optimización): Como coordinador de la veeduría quiero recibir una notificación automática...
