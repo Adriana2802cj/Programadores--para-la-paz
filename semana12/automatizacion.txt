@@ -1,0 +1,25 @@
+Evento: Nueva causa registrada.
+
+Mensaje: ¡Nueva causa creada en la plataforma! Ya puedes ingresar para conocer el caso y sumar tu apoyo.
+
+Información que no debe enviarse: Cédulas, teléfonos, direcciones, nombres de los vecinos, comentarios sensibles o contraseñas.
+
+
+1. Evento que activa la automatización: Nueva Causa Registrada.
+
+Cómo funciona: En el instante en que un ciudadano hace clic en el botón para crear una causa y esta se guarda de forma exitosa en la base de datos de la plataforma, se realiza una petición HTTP hacia la dirección URL del Webhook de entrada en n8n para iniciar el flujo de forma inmediata.
+
+2. Mensaje que se envía por Telegram
+El bot envía un mensaje corto y de carácter informativo al canal público o grupo de la veeduría en el territorio:
+¡Nueva causa comunitaria creada en la plataforma!
+
+3. Información que NO debe enviarse por seguridad
+Siguiendo de forma estricta los principios de autocuidado digital, minimización de datos y el principio de mínimo privilegio, bajo ninguna circunstancia se debe incluir en la carga de datos del webhook hacia Telegram la siguiente información sensible:
+
+Datos de identificación personal: Nombres completos, números de cédula o documentos de identidad de la persona que creó la causa o de los vecinos afectados.
+
+Ubicaciones precisas: Direcciones exactas de residencias o datos de contacto (como correos electrónicos y números de teléfono).
+
+Seguridad y accesos: Claves, contraseñas, tokens de base de datos o variables de configuración del archivo .env..
+
+Detalles sensibles: Comentarios informales o descripciones sin moderar que puedan poner en riesgo la seguridad de los líderes sociales o de la comunidad en el territorio

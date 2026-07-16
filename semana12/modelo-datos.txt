@@ -1,0 +1,20 @@
+Entidad: CAUSA
+[Tiene como finalidad almacenar toda la información general y el contexto de la problemática que se quiere solucionar en el territorio.]
+
+id [identificador único e irrepetible de la causa en el sistema]
+titulo[resume la problemática]
+descripción [hechos, argumentos y la justificación de la necesidad comunitaria]
+fecha [cuándo se creó la causa para llevar un control del tiempo de gestión]
+
+Entidad: APOYO
+[Su propósito es registrar cada respaldo individual que los ciudadanos brindan a una causa específica, sirviendo como el sustento democrático de la petición]
+id[identificador único del registro de apoyo específico]
+causa_id[el enlace técnico que conecta este apoyo directo con el id de la causa correspondiente]
+nombre[El nombre del ciudadano que respalda la causa]
+fecha[Registro exacto del momento en que el ciudadano hizo clic para brindar su respaldo]
+
+¿Para qué sirve cada entidad?
+
+La entidad Causa sirve para dar estructura y contenido a la solicitud. Sin ella, el sistema no sabría qué se está reclamando ni cuáles son los argumentos legales o de hecho que se presentarán ante la entidad pública. Es la voz del problema.
+
+La entidad Apoyo sirve para dar legitimidad y fuerza colectiva a la solicitud. Permite que el backend sume y cuente cuántos vecinos están respaldando activamente la iniciativa. Al momento de generar el documento final, el sistema consulta esta entidad para certificar que la solicitud no es un reclamo aislado, sino el clamor organizado de toda una comunidad en el territorio.
